@@ -25,4 +25,4 @@ Prerequisiti:
 5. Avviare il *DataSender* per invio dei dati a *Redis*
 
 ## Changelog
-
+https://github.com/VaporMontey/Sensor-projectwork-2019/releases
